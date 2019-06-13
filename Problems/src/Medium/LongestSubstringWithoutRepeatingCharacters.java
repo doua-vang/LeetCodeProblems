@@ -1,4 +1,4 @@
-package mediumProblems;
+package Medium;
 
 public class LongestSubstringWithoutRepeatingCharacters {
 	

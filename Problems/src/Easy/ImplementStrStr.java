@@ -1,4 +1,4 @@
-package easyProblems;
+package Easy;
 
 /* 
  * Problem #28
